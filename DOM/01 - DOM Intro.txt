@@ -1,0 +1,9 @@
+HTML DOM: 
+    1. When a page is loaded, the browser creates a Document Object, Model of the web page.
+    2. It is a tree type object based document, which powers the JS to make changes to the document.
+    3. The HTML DOM is a standard object model, and programming interface for HTML, it contains: 
+            1. HTML elements as objects..
+            2. The properties of all HTML elements.
+            3. The methods to access the HTML elements.
+            4. The events.
+            
